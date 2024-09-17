@@ -6,15 +6,7 @@
     <title>Ejemplos de Versos y Obras Literarias</title>
     <style>
         body {
-            background-color: #000; /* Fondo negro */
-            color: #fff; /* Texto blanco */
-            font-family: Arial, sans-serif;
-        }
-        h1, h2 {
-            text-align: center;
-        }
-        pre {
-            font-family: monospace;
+          
         }
     </style>
 </head>
