@@ -4,11 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ejemplos de Versos y Obras Literarias</title>
+    <style>
+        body {
+            background-color: #000; /* Fondo negro */
+            color: #fff; /* Texto blanco */
+            font-family: Arial, sans-serif;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        pre {
+            font-family: monospace;
+        }
+    </style>
 </head>
 <body>
-    <pre>
-Ejemplos de Versos
+    <h1>Ejemplos de Versos y Obras Literarias</h1>
 
+    <p>En esta página, exploramos distintos tipos de versos y ejemplos de obras literarias importantes. Encontrarás una variedad de estilos que demuestran la riqueza y la diversidad de la poesía.</p>
+
+    <h2>Ejemplos de Versos</h2>
+    <p>En esta sección, te presentamos diferentes tipos de versos que varían en su estilo, métrica y temática. Desde versos clásicos hasta versos humorísticos, cada ejemplo destaca una forma particular de expresión poética.</p>
+
+    <pre>
 Verso clásico (endecasílabo):
 "En una tarde clara y transparente,
 el sol se oculta tras las verdes ramas."
@@ -34,10 +52,12 @@ y el hombre en su cauce busca la verdad."
 Verso humorístico:
 "Había una vaca que leía en la pradera,
 un libro de plantas y de alguna madera."
+    </pre>
 
+    <h2>Ejemplos de Versos en Obras Literarias</h2>
+    <p>A continuación, encontrarás ejemplos de versos tomados de obras literarias famosas. Estos versos representan estilos poéticos clásicos y modernos, escritos por algunos de los poetas más reconocidos de la historia.</p>
 
-Ejemplos de Versos en Obras Literarias
-
+    <pre>
 1. "Soneto XXIII" de Garcilaso de la Vega:
    "En tanto que de rosa y de azucena
     se muestra la color en vuestro gesto,
@@ -68,5 +88,6 @@ Ejemplos de Versos en Obras Literarias
     memoria y deseo, remueve
     turbias raíces con lluvia primaveral."
     </pre>
+
 </body>
 </html>
